@@ -1,0 +1,22 @@
+.users {
+  max-width: 40rem;
+  width: 100%;
+}
+
+.users ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.users li {
+  border: 1px solid #e8e4e4;
+  margin: 10px 0 20px;
+  padding: 10px 20px;
+  font-weight: bold;
+  color: #777;
+}
+
+.users h2 {
+  text-align: center;
+  color: #777;
+}

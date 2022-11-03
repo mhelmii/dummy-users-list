@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+.form label {
+  font-size: 12px;
+  font-weight: bold;
+  margin: 10px 0px;
+  color: #777;
+}
+
+.form input {
+  padding: 8px 12px;
+  border: 1px solid #e8e4e4;
+  font-size: 12px;
+}
+
+.form input:focus {
+  outline: none;
+}
